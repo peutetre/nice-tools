@@ -1,8 +1,8 @@
 # nice-tools
 
 
-# SVG
+## SVG
 - SVG Optimizer https://jakearchibald.github.io/svgomg/
 
-# Sceenshots/Screencasts
+## Sceenshots/Screencasts
 - code screenshots https://app.codeimage.dev/
