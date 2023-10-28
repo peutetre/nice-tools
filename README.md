@@ -15,3 +15,9 @@
 
 # Writing
 - https://hemingwayapp.com
+
+# Icons
+- https://shape.so/
+- Free Icon Pack 1600+ icons https://www.figma.com/community/file/886554014393250663
+- https://www.svgrepo.com/
+- https://iconmonstr.com/
