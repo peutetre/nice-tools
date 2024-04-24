@@ -3,6 +3,7 @@
 
 ## SVG
 - SVG Optimizer https://jakearchibald.github.io/svgomg/
+- SVG Path editor https://yqnn.github.io/svg-path-editor/
 
 ## CSS
 - CSS Optimizer https://css.github.io/csso/csso.html
