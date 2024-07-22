@@ -28,3 +28,8 @@
 
 - https://developers.facebook.com/tools/debug
 - https://cards-dev.twitter.com/validator
+
+
+# SEO
+
+- https://keywordsheeter.com/
