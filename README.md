@@ -34,3 +34,8 @@
 # SEO
 
 - https://keywordsheeter.com/
+
+# GenAI
+
+- https://openart.ai/
+- https://enragedantelope.github.io/Styles-FluxDev/
